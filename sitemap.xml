@@ -26,6 +26,76 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260719-0249.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260721-0370.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260721-0371.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0201.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0204.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0205.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0206.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/guide-002-yny53s.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-info-song.node-link.shop/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260719-0245.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -42,11 +112,6 @@
   </url>
   <url>
     <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260719-0248.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260719-0249.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -121,16 +186,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260721-0370.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260721-0371.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0199.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -141,32 +196,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0201.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0202.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0203.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0204.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0205.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0206.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -182,46 +217,6 @@
   </url>
   <url>
     <loc>https://sangam-info-song.node-link.shop/posts/gemini-coverage-20260722-0209.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/guide-002-yny53s.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-info-song.node-link.shop/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
